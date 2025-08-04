@@ -1,1 +1,1 @@
-![Demo Animation](assets/Documents-DB-Cinema.gif)
+![Demo Animation](assets/Documents-DB-Cinema.pdf)
